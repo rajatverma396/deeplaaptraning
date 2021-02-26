@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b893e6a5-5680-4522-a1da-a3178b44318b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p0WVeWGPf5tqCzRQBjDXI5zSOh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b893e6a5-5680-4522-a1da-a3178b44318b" name="Default Changelist" comment="" />
+      <created>1614320512250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614320512250</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1614320751613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614320751613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1614321117943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614321117943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial">
+      <created>1614323499916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614323499916</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" key="#Project_Structure" timestamp="1614320683007">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.815@0.25.1440.815" timestamp="1614320683007" />
+    <state x="357" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614323869717">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="357" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.815@0.25.1440.815" timestamp="1614323869717" />
+    <state x="509" y="25" key="CommitChangelistDialog2" timestamp="1614323473927">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="509" y="25" key="CommitChangelistDialog2/0.25.1440.815@0.25.1440.815" timestamp="1614323473927" />
+    <state x="144" y="91" key="DiffContextDialog" timestamp="1614321145799">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="144" y="91" key="DiffContextDialog/0.25.1440.815@0.25.1440.815" timestamp="1614321145799" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1614323502710">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.25.1440.815@0.25.1440.815" timestamp="1614323502710" />
+  </component>
+</project>
