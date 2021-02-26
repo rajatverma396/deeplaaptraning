@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1135"
+all_model_checkpoint_paths: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1043"
+all_model_checkpoint_paths: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1072"
+all_model_checkpoint_paths: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1101"
+all_model_checkpoint_paths: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1131"
+all_model_checkpoint_paths: "/Users/rajatverma/Desktop/machine learning/deeplab-training-master/models/research/deeplab/datasets/PQR/exp/train_on_trainval_set/train/model.ckpt-1135"
