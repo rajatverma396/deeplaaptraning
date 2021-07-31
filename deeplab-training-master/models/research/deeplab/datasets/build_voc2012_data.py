@@ -117,13 +117,13 @@ def _convert_dataset(dataset_split):
         sys.stdout.flush()
         # Read the image.
         image_filename = os.path.join(
-            FLAGS.image_folder, filenames[i] + '.' + FLAGS.image_format)
+            FLAGS.image_folder, filenames[i]  + '.jpg')
         image_data = tf.gfile.GFile(image_filename, 'rb').read()
         height, width = image_reader.read_image_dims(image_data)
         # Read the semantic segmentation annotation.
         seg_filename = os.path.join(
             FLAGS.semantic_segmentation_folder,
-            filenames[i] + '.' + FLAGS.label_format)
+            filenames[i] +  '.jpg')
         seg_data = tf.gfile.GFile(seg_filename, 'rb').read()
         seg_height, seg_width = label_reader.read_image_dims(seg_data)
         if height != seg_height or width != seg_width:

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b893e6a5-5680-4522-a1da-a3178b44318b" name="Default Changelist" comment="" />
+    <list default="true" id="b893e6a5-5680-4522-a1da-a3178b44318b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/train.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/trainval.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/trainval.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/val.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/PQR/ImageSets/val.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_cityscapes_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_cityscapes_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_pqr_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_pqr_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_voc2012_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/build_voc2012_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/convert_rgb_to_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/convert_rgb_to_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/data_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/data_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/download_and_convert_voc2012.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/datasets/download_and_convert_voc2012.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/deprecated/segmentation_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/deprecated/segmentation_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/g3doc/img/image_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/models/research/deeplab/g3doc/img/image_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deeplab-training-master/utilities/scrapeImages.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplab-training-master/utilities/scrapeImages.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +43,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -37,6 +54,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,25 +97,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="25" key="#Project_Structure" timestamp="1614320683007">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="208" y="25" key="#Project_Structure" timestamp="1623311884148">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
-    <state x="208" y="25" key="#Project_Structure/0.25.1440.815@0.25.1440.815" timestamp="1614320683007" />
-    <state x="357" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614323869717">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.814@0.25.1440.814" timestamp="1623311884148" />
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623313531269">
+      <screen x="0" y="25" width="1440" height="813" />
     </state>
-    <state x="357" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.815@0.25.1440.815" timestamp="1614323869717" />
-    <state x="509" y="25" key="CommitChangelistDialog2" timestamp="1614323473927">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1623313531269" />
+    <state x="100" y="125" width="1240" height="613" key="DiffContextDialog" timestamp="1623235218286">
+      <screen x="0" y="25" width="1440" height="813" />
     </state>
-    <state x="509" y="25" key="CommitChangelistDialog2/0.25.1440.815@0.25.1440.815" timestamp="1614323473927" />
-    <state x="144" y="91" key="DiffContextDialog" timestamp="1614321145799">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="100" y="125" width="1240" height="613" key="DiffContextDialog/0.25.1440.813@0.25.1440.813" timestamp="1623235218286" />
+    <state x="478" y="138" key="RollbackChangesDialog" timestamp="1623307906619">
+      <screen x="0" y="25" width="1440" height="813" />
     </state>
-    <state x="144" y="91" key="DiffContextDialog/0.25.1440.815@0.25.1440.815" timestamp="1614321145799" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1614323502710">
-      <screen x="0" y="25" width="1440" height="815" />
+    <state x="478" y="138" key="RollbackChangesDialog/0.25.1440.813@0.25.1440.813" timestamp="1623307906619" />
+    <state x="385" y="162" width="670" height="675" key="search.everywhere.popup" timestamp="1626343716176">
+      <screen x="0" y="25" width="1440" height="811" />
     </state>
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.25.1440.815@0.25.1440.815" timestamp="1614323502710" />
+    <state x="385" y="162" width="670" height="674" key="search.everywhere.popup/0.25.1440.809@0.25.1440.809" timestamp="1626332500798" />
+    <state x="385" y="162" width="670" height="675" key="search.everywhere.popup/0.25.1440.811@0.25.1440.811" timestamp="1626343716176" />
+    <state x="385" y="162" width="670" height="676" key="search.everywhere.popup/0.25.1440.813@0.25.1440.813" timestamp="1622629290635" />
   </component>
 </project>

@@ -59,7 +59,7 @@ download_and_uncompress() {
 BASE_URL="https://data.deepai.org/"
 FILENAME="PascalVOC2012.zip"
 
-download_and_uncompress "${BASE_URL}" "${FILENAME}"
+#download_and_uncompress "${BASE_URL}" "${FILENAME}"
 
 cd "${CURRENT_DIR}"
 

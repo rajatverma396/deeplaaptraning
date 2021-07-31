@@ -90,20 +90,21 @@ _CITYSCAPES_INFORMATION = DatasetDescriptor(
 
 _PASCAL_VOC_SEG_INFORMATION = DatasetDescriptor(
     splits_to_sizes={
-        'train': 22,
-        'train_aug': 31,
-        'trainval': 31,
-        'val': 9,
+        'train': 29399,
+        'train_aug': 10582,
+        'trainval': 30400,
+        'val': 1001,
     },
-    num_classes=21,
+    num_classes=2,
     ignore_label=255,
 )
 
 _PQR_INFORMATION = DatasetDescriptor(
     splits_to_sizes={
-       'train': 22,
-       'val': 31,
-       'trainval': 9,
+        'train': 29399,
+        'train_aug': 10582,
+        'trainval': 30400,
+        'val': 1001,
     },
     num_classes=2,
     ignore_label=255,

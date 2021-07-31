@@ -7,7 +7,7 @@ import os, shutil
 
 # palette (color map) describes the (R, G, B): Label pair
 palette = {(0,   0,   0) : 0 ,
-         (255,  0, 0) : 1 #person
+         (102,255,102) : 1 #person
          }
 
 def convert_from_color_segmentation(arr_3d):
@@ -19,8 +19,8 @@ def convert_from_color_segmentation(arr_3d):
     return arr_2d
 
 
-label_dir = './PQR/SegmentationClass/'
-new_label_dir = './PQR/SegmentationClassRaw/'
+label_dir = '/content/deeplab/models/research/deeplab/datasets/pascal_voc_seg/VOC2012/SegmentationClass/'
+new_label_dir = '/content/deeplab/models/research/deeplab/datasets/pascal_voc_seg/VOC2012/SegmentationClassRaw/'
 
 if not os.path.isdir(new_label_dir):
 	print("creating folder: ",new_label_dir)
